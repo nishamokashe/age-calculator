@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: 'Itim',cursive;
+}
+body{
+    background-color: rgb(204, 250, 235);
+}
+#container{
+    width: 600px;
+    height: 200px;
+    background-color: #104242;
+    margin-left: 400px;
+    margin-top: 300px;
+    border-radius: 10px;
+}
+h2 {
+   text-shadow: none;
+   color: darkorange;
+   margin-left: 220px;
+}
+p{
+    font-family: 'Roboto Slab', serif;
+    font-size: medium;
+    margin-left: 180px;
+    padding: 10px;
+}
+form{
+    margin-left: 20px; 
+    font-size: x-large;
+    font-weight: bolder;
+}
+#Age{
+    margin-left: 150px;
+    padding-bottom: 10px;
+}
+input{
+    border-radius: 10px;
+    color: wheat;
+    font-weight: bolder;
+    background-color: darkgray;
+}
+#calculator{
+    background-color: rgb(247, 173, 82);
+    border-radius: 10px;
+    margin-left: 150px;
+}
+#clear{
+    background-color: rgb(247, 173, 82);
+    border-radius: 10px;
+
+}
+#twitter{
+    padding-left: 200px;
+    font-size: medium;
+    }
+#linkedin{
+    padding-left: 20px;
+    font-size: medium;
+    
+}
+#facebook{
+    padding-left: 15px;
+    font-size: medium;
+}
+#instagram{
+    padding-left: 15px;
+    font-size: medium;
+}
